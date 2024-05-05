@@ -1,0 +1,26 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "psm.moc3",
+		"Textures": [
+			"/psm.1024/texture_00.png",
+			"/psm.1024/texture_01.png"
+		],
+		"DisplayInfo": "psm.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLSmile",
+				"ParamEyeRSmile"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

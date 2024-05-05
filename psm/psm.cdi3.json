@@ -1,0 +1,332 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup8",
+			"Name": "挥手"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "拿笔抬手"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup2",
+			"Name": "身体旋转　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup2",
+			"Name": "身体旋转　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup2",
+			"Name": "身体旋转　Z"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup4",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup4",
+			"Name": "眼珠 Y"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup4",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup4",
+			"Name": "左眼　微笑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup4",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup4",
+			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup6",
+			"Name": "嘴　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup6",
+			"Name": "嘴　张开和闭合"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup5",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup5",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup5",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup5",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup5",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup5",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup5",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup5",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "脸颊泛红"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "摇动 前发"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "摇动 侧发"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "摇动 后发"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "按键"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "身体xyz"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "头部xyz"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "头发"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "嘴巴"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "服装"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "眉毛"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part31",
+			"Name": "小学版已拆分.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "小学版"
+		},
+		{
+			"Id": "Part15",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part3",
+			"Name": "小学版"
+		},
+		{
+			"Id": "Part29",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part2",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part5",
+			"Name": "刘海"
+		},
+		{
+			"Id": "Part6",
+			"Name": "头"
+		},
+		{
+			"Id": "Part16",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part18",
+			"Name": "刘海"
+		},
+		{
+			"Id": "Part19",
+			"Name": "头"
+		},
+		{
+			"Id": "Part30",
+			"Name": "动作2"
+		},
+		{
+			"Id": "Part4",
+			"Name": "左手"
+		},
+		{
+			"Id": "Part7",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "Part12",
+			"Name": "嘴"
+		},
+		{
+			"Id": "Part13",
+			"Name": "脸"
+		},
+		{
+			"Id": "Part14",
+			"Name": "耳朵"
+		},
+		{
+			"Id": "Part17",
+			"Name": "左手"
+		},
+		{
+			"Id": "Part20",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "Part26",
+			"Name": "嘴"
+		},
+		{
+			"Id": "Part27",
+			"Name": "脸"
+		},
+		{
+			"Id": "Part28",
+			"Name": "耳朵"
+		},
+		{
+			"Id": "Part8",
+			"Name": "左"
+		},
+		{
+			"Id": "Part10",
+			"Name": "右"
+		},
+		{
+			"Id": "Part21",
+			"Name": "左"
+		},
+		{
+			"Id": "Part23",
+			"Name": "右"
+		},
+		{
+			"Id": "Part9",
+			"Name": "睫毛"
+		},
+		{
+			"Id": "Part11",
+			"Name": "睫毛"
+		},
+		{
+			"Id": "Part22",
+			"Name": "睫毛"
+		},
+		{
+			"Id": "Part24",
+			"Name": "睫毛"
+		},
+		{
+			"Id": "Part25",
+			"Name": "组 1"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}
